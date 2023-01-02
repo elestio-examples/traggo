@@ -15,5 +15,5 @@ Deploy Traggo with CI/CD on Elestio
 You can can open Traggo UI here:
 
     URL: https://[CI_CD_DOMAIN]
-    Login: root
+    Login: admin
     password: [ADMIN_PASSWORD]
