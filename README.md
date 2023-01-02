@@ -5,7 +5,7 @@
 Deploy Traggo with CI/CD on Elestio
 
 <p align="center">
-<img src="traggo.png" style='width: 100%; max-width: 200px;margin:auto;'/>
+<img src="traggo.png" style='width: 200px;margin:auto;'/>
 </p>
 <br/>
 <br/>
