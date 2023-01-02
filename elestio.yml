@@ -32,6 +32,6 @@ lifeCycleConfig:
   postDeployCommand: "./scripts/postDeploy.sh"
 webUI:
   - url: "https://[CI_CD_DOMAIN]"
-    label: "Light LDAP Admin"
+    label: "Traggo Admin"
     login: "admin"
     password: "[ADMIN_PASSWORD]"
