@@ -8,6 +8,8 @@ ports:
     path: "/"
     isAuth: false
 environments:
+  - key: "SOFTWARE_VERSION_TAG"
+    value: "latest"
   - key: "TRAGGO_DEFAULT_USER_NAME"
     value: "admin"
   - key: "ADMIN_PASSWORD"
